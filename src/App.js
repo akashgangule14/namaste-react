@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Body from "./components/Body";
 
 const AppLayout = () => {
-    return <div id="root">
+    return <div className="app">
         <Header/>
         <Body/>
     </div>;

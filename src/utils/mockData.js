@@ -723,7 +723,7 @@ const resList = [
           iconType: "EMPTY",
         },
         promoted: false,
-        avgRating: "--",
+        avgRating: "3.9",
         totalRatings: 0,
         new: false,
       },
