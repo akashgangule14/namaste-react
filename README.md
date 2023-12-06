@@ -1,8 +1,6 @@
 # Namaste React 
 
-
-
-/**
+/*
  * Header
  *  - Logo
  *  - Nav Items
@@ -15,20 +13,20 @@
  *  - Links
  *  - Address
  *  - Contact
- *  
  */
+ 
 
- Two Types of Export & Import
+# Two Types of Export & Import
 
  1. Default Export/Import
 
- export default <component>;
- import <component> from "/path";
+    - export default <component>;
+    - import <component> from "/path";
 
 2. Named Export/Import
 
-export const component = () => {};
-import { component } from "/path";
+    - export const component = () => {};
+    - import { component } from "/path";
 
 # React Hook
 - useState
