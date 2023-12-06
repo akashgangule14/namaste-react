@@ -30,4 +30,7 @@
 
 # React Hook
 - useState
+- useEffect
 
+#API Calls
+- by using fetch()
