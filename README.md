@@ -32,5 +32,13 @@
 - useState
 - useEffect
 
-#API Calls
+* API Calls
 - by using fetch()
+
+# Routing
+
+- React Router
+
+- 2 Types of Routing
+    - Server Side Routing
+    - Client Side Routing
