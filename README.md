@@ -14,6 +14,26 @@
  *  - Address
  *  - Contact
  */
+
+ # Components
+ - Functional Components
+    - props
+    - state
+    - Hooks
+
+ - Class Components
+    - this.props
+    - super(props)
+    - this.state
+    - constructor
+    - setState()
+
+ - React Life Cycle Methods
+    - Render Phase
+    - Commit Phase
+    - ComponentDidMount()
+    - ComponentDidUpdate()
+    - ComponentWillUnmount()
  
 
 # Two Types of Export & Import
@@ -32,8 +52,8 @@
 - useState
 - useEffect
 
-* API Calls
-- by using fetch()
+- API Calls
+    - by using fetch()
 
 # Routing
 
@@ -42,3 +62,4 @@
 - 2 Types of Routing
     - Server Side Routing
     - Client Side Routing
+
