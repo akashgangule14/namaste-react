@@ -51,6 +51,8 @@
 # React Hook
 - useState
 - useEffect
+- useParams
+- Custom Hooks!
 
 - API Calls
     - by using fetch()
