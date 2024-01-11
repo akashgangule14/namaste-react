@@ -65,3 +65,4 @@
     - Server Side Routing
     - Client Side Routing
 
+# Tailwind CSS
